@@ -1,4 +1,4 @@
-package com.camdendees57.vrpackagefetcher
+package TagtusVR.IsCool
 
 import android.app.DownloadManager
 import android.content.Context
@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
             setPadding(32, 32, 32, 32)
         }
         val title = TextView(this).apply {
-            text = "VR Package Fetcher"
+            text = "Apk/Obb Downloader"
             textSize = 26f
         }
         val subtitle = TextView(this).apply {
