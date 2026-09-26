@@ -5,7 +5,7 @@
         android:theme="@style/Theme.VRPackageFetcher"
         android:icon="@drawable/app_icon"
         android:roundIcon="@drawable/app_icon"
-        android:label="TagtusVR.Is.Cool"
+        android:label="Apk/Obb Downloader"
         android:allowBackup="false"
         android:supportsRtl="true">
         <activity android:name=".MainActivity" android:exported="true">
