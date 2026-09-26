@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "tagtusvr.iscool"
+    namespace = "TagtusVR.IsCool"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "tagtusvr.iscool"
+        applicationId = "TagtusVR.IsCool"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
